@@ -22,3 +22,6 @@
 # 005 Styles in YAML
 ![](Images/2022-10-15-21-55-58.png)
 ![](Images/2022-10-15-21-57-02.png)
+
+# 006 Block Style
+![](Images/2022-10-15-22-08-02.png)
