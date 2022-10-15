@@ -30,3 +30,9 @@
 
 # 009 Importance of Indentation
 ![](Images/2022-10-15-17-37-52.png)
+
+# 010 Summary
+![](Images/2022-10-15-17-53-08.png)
+![](Images/2022-10-15-17-53-22.png)
+![](Images/2022-10-15-17-53-36.png)
+![](Images/2022-10-15-17-53-52.png)
