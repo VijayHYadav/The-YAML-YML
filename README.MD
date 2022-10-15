@@ -23,3 +23,9 @@
 
 # 007 Comments in YAML
 ![](Images/2022-10-15-17-28-57.png)
+
+# 008 Key-Value Pairs in YAML
+![](Images/2022-10-15-17-33-44.png)
+![](Images/2022-10-15-17-34-13.png)
+
+# 009 Importance of Indentation
