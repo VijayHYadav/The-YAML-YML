@@ -9,3 +9,7 @@
 
 # 003 Why use YAML_
 ![](Images/2022-10-15-16-08-24.png)
+
+# 004 Where is YAML Used_
+![](Images/2022-10-15-17-09-16.png)
+![](Images/2022-10-15-17-11-30.png)
