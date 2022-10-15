@@ -13,3 +13,7 @@
 # 004 Where is YAML Used_
 ![](Images/2022-10-15-17-09-16.png)
 ![](Images/2022-10-15-17-11-30.png)
+
+# 005 YAML vs JSON
+![](Images/2022-10-15-17-14-18.png)
+![](Images/2022-10-15-17-18-54.png)
