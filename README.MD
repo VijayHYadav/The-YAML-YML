@@ -6,3 +6,7 @@
 
 # 001 Introduction.
 ![](Images/2022-10-15-21-35-27.png)
+
+# 002 Data Types in YAML
+![](Images/2022-10-15-21-37-05.png)
+![](Images/2022-10-15-21-40-34.png)
