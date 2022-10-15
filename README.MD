@@ -18,3 +18,7 @@
 # 004 Collection Types
 ![](Images/2022-10-15-21-49-45.png)
 ![](Images/2022-10-15-21-54-26.png)
+
+# 005 Styles in YAML
+![](Images/2022-10-15-21-55-58.png)
+![](Images/2022-10-15-21-57-02.png)
