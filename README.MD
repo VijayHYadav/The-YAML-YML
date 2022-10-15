@@ -10,3 +10,7 @@
 # 002 Data Types in YAML
 ![](Images/2022-10-15-21-37-05.png)
 ![](Images/2022-10-15-21-40-34.png)
+
+# 003 Scalar Types
+![](Images/2022-10-15-21-42-52.png)
+![](Images/2022-10-15-21-47-46.png)
