@@ -29,3 +29,4 @@
 ![](Images/2022-10-15-17-34-13.png)
 
 # 009 Importance of Indentation
+![](Images/2022-10-15-17-37-52.png)
