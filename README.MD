@@ -24,3 +24,6 @@
 
 # 004 Anchors Usage 2_ Represent Complex Type
 ![](Images/2022-10-16-07-10-06.png)
+
+# 005 Anchors Usage 3_ Inherit Properties using Merge Key
+![](Images/2022-10-16-07-15-11.png)
