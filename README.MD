@@ -57,3 +57,7 @@
 ![](Images/2022-10-16-08-51-06.png)
 ![](Images/2022-10-16-08-51-21.png)
 ![](Images/2022-10-16-08-51-38.png)
+
+# NOTE
+# !!str says whatever value it comes it is gonna conver that value to string.
+    studentId: !!str 130
