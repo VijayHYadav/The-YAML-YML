@@ -13,3 +13,8 @@
 # 04 More YAML Features
 # 001 Introduction
 ![](Images/2022-10-15-22-22-47.png)
+
+# 002 Anchors
+![](Images/2022-10-16-06-56-41.png)
+![](Images/2022-10-16-06-57-23.png)
+![](Images/2022-10-16-06-57-49.png)
