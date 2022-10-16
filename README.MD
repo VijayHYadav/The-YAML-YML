@@ -14,3 +14,8 @@
 ![](Images/2022-10-16-07-44-51.png)
 ![](Images/2022-10-16-07-45-09.png)
 ![](Images/2022-10-16-07-45-30.png)
+
+# 05 Directives & Tags in YAML
+
+# 001 Introduction
+![](Images/2022-10-16-08-24-06.png)
