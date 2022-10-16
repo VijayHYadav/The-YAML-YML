@@ -38,3 +38,8 @@
 
 # 008 Documents in YAML
 ![](Images/2022-10-16-07-43-46.png)
+
+# 009 Summary
+![](Images/2022-10-16-07-44-51.png)
+![](Images/2022-10-16-07-45-09.png)
+![](Images/2022-10-16-07-45-30.png)
