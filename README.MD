@@ -21,3 +21,6 @@
 
 # 003 Anchors Usage 1_ Duplicate Content
 ![](Images/2022-10-16-07-03-05.png)
+
+# 004 Anchors Usage 2_ Represent Complex Type
+![](Images/2022-10-16-07-10-06.png)
