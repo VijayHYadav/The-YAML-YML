@@ -18,3 +18,6 @@
 ![](Images/2022-10-16-06-56-41.png)
 ![](Images/2022-10-16-06-57-23.png)
 ![](Images/2022-10-16-06-57-49.png)
+
+# 003 Anchors Usage 1_ Duplicate Content
+![](Images/2022-10-16-07-03-05.png)
