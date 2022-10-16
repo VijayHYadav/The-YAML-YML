@@ -30,3 +30,8 @@
 
 # 006 Deep Dive_ Anchors and Merge Key
 ![](Images/2022-10-16-07-22-28.png)
+
+# 007 Sets in YAML
+![](Images/2022-10-16-07-24-11.png)
+![](Images/2022-10-16-07-28-12.png)
+![](Images/2022-10-16-07-37-13.png)
