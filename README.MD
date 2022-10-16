@@ -10,36 +10,7 @@
 ![](Images/2022-10-15-22-16-49.png)
 ![](Images/2022-10-15-22-17-06.png)
 
-# 04 More YAML Features
-# 001 Introduction
-![](Images/2022-10-15-22-22-47.png)
-
-# 002 Anchors
-![](Images/2022-10-16-06-56-41.png)
-![](Images/2022-10-16-06-57-23.png)
-![](Images/2022-10-16-06-57-49.png)
-
-# 003 Anchors Usage 1_ Duplicate Content
-![](Images/2022-10-16-07-03-05.png)
-
-# 004 Anchors Usage 2_ Represent Complex Type
-![](Images/2022-10-16-07-10-06.png)
-
-# 005 Anchors Usage 3_ Inherit Properties using Merge Key
-![](Images/2022-10-16-07-15-11.png)
-
-# 006 Deep Dive_ Anchors and Merge Key
-![](Images/2022-10-16-07-22-28.png)
-
-# 007 Sets in YAML
-![](Images/2022-10-16-07-24-11.png)
-![](Images/2022-10-16-07-28-12.png)
-![](Images/2022-10-16-07-37-13.png)
-
-# 008 Documents in YAML
-![](Images/2022-10-16-07-43-46.png)
-
-# 009 Summary
+# 04 More YAML Features => 009 Summary
 ![](Images/2022-10-16-07-44-51.png)
 ![](Images/2022-10-16-07-45-09.png)
 ![](Images/2022-10-16-07-45-30.png)
