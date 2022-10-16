@@ -27,3 +27,6 @@
 
 # 005 Anchors Usage 3_ Inherit Properties using Merge Key
 ![](Images/2022-10-16-07-15-11.png)
+
+# 006 Deep Dive_ Anchors and Merge Key
+![](Images/2022-10-16-07-22-28.png)
