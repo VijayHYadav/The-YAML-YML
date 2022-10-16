@@ -19,3 +19,8 @@
 
 # 001 Introduction
 ![](Images/2022-10-16-08-24-06.png)
+
+# 002 What are Directives in YAML_
+![](Images/2022-10-16-08-25-09.png)
+![](Images/2022-10-16-08-27-59.png)
+![](Images/2022-10-16-08-30-03.png)
